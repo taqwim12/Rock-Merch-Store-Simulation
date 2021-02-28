@@ -1,0 +1,49 @@
+D:\VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.exe.config
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.exe.config
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.exe
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.pdb
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.xml
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.vbprojResolveAssemblyReference.cache
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.Dashboard.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.Resources.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.vbproj.GenerateResource.Cache
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.exe
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.xml
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.pdb
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.Customer_Form.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.ItemsList.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.Market.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.adminform.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.loginform.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.PaymentForm.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\MySql.Data.dll
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Google.Protobuf.dll
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\BouncyCastle.Crypto.dll
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Renci.SshNet.dll
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\MySql.Data.xml
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.suggestionlistb.resources
+D:\[Coding] VStudio15 Project\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.OrderForm.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.exe.config
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.exe
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.xml
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.pdb
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.exe
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.pdb
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Bismillah_FinalProject.xml
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\MySql.Data.dll
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\bin\Debug\MySql.Data.xml
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.vbprojResolveAssemblyReference.cache
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.adminform.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.Customer_Form.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.Dashboard.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.ItemsList.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.loginform.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.Market.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.Resources.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.OrderForm.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.PaymentForm.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.suggestionlistb.resources
+C:\Users\Bagus\Desktop\Bismillah_FinalProject\Bismillah_FinalProject\obj\Debug\Bismillah_FinalProject.vbproj.GenerateResource.Cache

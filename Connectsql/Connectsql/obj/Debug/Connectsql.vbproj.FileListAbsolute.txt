@@ -1,0 +1,13 @@
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\bin\Debug\Connectsql.exe
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\bin\Debug\Connectsql.pdb
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\bin\Debug\Connectsql.xml
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\obj\Debug\Connectsql.Form1.resources
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\obj\Debug\Connectsql.Resources.resources
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\obj\Debug\Connectsql.vbproj.GenerateResource.Cache
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\obj\Debug\Connectsql.exe
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\obj\Debug\Connectsql.xml
+C:\Users\Clive\Documents\Visual Studio 2008\clive projects\Connectsql\Connectsql\obj\Debug\Connectsql.pdb
+C:\Users\Bagus\Downloads\Connectsql\Connectsql\obj\Debug\Connectsql.exe
+C:\Users\Bagus\Downloads\Connectsql\Connectsql\obj\Debug\Connectsql.xml
+C:\Users\Bagus\Downloads\Connectsql\Connectsql\obj\Debug\Connectsql.pdb
